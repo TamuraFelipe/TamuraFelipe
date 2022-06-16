@@ -1,4 +1,5 @@
 ### Olá 👋
+<hr>
 Sou <strong>Felipe Tamura</strong> e trabalho como Front-end Developer na empresa VM2.
 
 
