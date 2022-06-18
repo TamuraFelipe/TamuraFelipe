@@ -1,25 +1,27 @@
-<h2 align="center">Hello 🗺️! Eu sou o Felipe Tamura, Front-end Developer. Leeeeet´s Code!</h2>
-
-<h2>Stats</h2>
-
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=tamurafelipe&show_icons=true&theme=highcontrast" />
-<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamurafelipe&layout=compact" />
-<br>
-<div dir="auto">
-<br>
-<img width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+## Hello 🗺️! Eu sou o Felipe Tamura, Front-end Developer. Leeeeet´s Code!
+<div align="center">
+  <a href="https://github.com/tamurafelipe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamurafelipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamurafelipe&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+  <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-
+![Snake animation](https://github.com/tamurafelipe/tamurafelipe/blob/output/github-contribution-grid-snake.svg)
 
 <h2>Sobre</h2>
 
 - 🔭 Atualmente estou trabalhando com HTML5, CSS3, JS, Bootstrap e SASS
 - 🌱 Estudando sobre Responsividade em diversos dispositivos e telas e Javascript
 - 👯 Colaborador na empresa VM2
-- 🤔 
-- 💬 
 - 📫 tamurafelipe@gmail.com
 - 😄 Ele/Dele
-- ⚡ 
--->
+
