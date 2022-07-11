@@ -25,7 +25,7 @@
 - 🌱 Estudando sobre Responsividade em diversos dispositivos e telas e Javascript
 - 👯 Colaborador na empresa VM2
 - 📫 tamurafelipe@gmail.com
-- 😄 Ele/Dele
+
 
 <div> 
   <a href="https://www.linkedin.com/in/felipe-diego-tamura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
