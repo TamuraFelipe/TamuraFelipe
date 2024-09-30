@@ -1,32 +1,46 @@
-## Hello 🗺️! Eu sou o Felipe Tamura, Front-end Developer. Leeeeet´s Code!
-<div align="center">
-  <a href="https://github.com/tamurafelipe">
+# Felipe Diego Tamura
+
+💻 _Front-end Developer_ | 🏢 _VM2_ 
+
+Formado em Análise e Desenvolvimento de Sistemas, com 2 anos e 6 meses de experiência. Trabalhando em projetos desafiadores para grandes empresas, como **Braskem**, **Aliança**, **Clarios**, **Metalfrio** e **Disal**.
+
+<img align="right" alt="Code Girl image" src="./octocat-1726751042767.png"  width="300px" style="marign-top: 30px; display: block; position: relative; z-index: 9999"/>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-00bd1f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-diego-tamura/)](https://www.linkedin.com/in/felipe-diego-tamura/)
+[![Gmail Badge](https://img.shields.io/badge/-tamurafelipe@gmail.com-00bd1f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamurafelipe@gmail.com)](mailto:tamurafelipe@gmail.com)
+
+## ⚡ Minhas Habilidades
+
+- **HTML**: Construção de estruturas sólidas e semânticas para sites.
+- **CSS**: Criação de layouts responsivos e estilizados, garantindo uma experiência visual agradável.
+- **JavaScript**: Implementação de funcionalidades dinâmicas e interativas.
+- **jQuery**: Manipulação eficiente do DOM e facilitação de animações e interações.
+- **React**: Desenvolvimento de interfaces modernas e escaláveis com componentes reutilizáveis.
+- **VS Code**: Utilização do Visual Studio Code como meu editor de código favorito, aproveitando suas extensões e funcionalidades.
+- **Git e GitHub**: Controle de versões e colaboração em projetos, facilitando o trabalho em equipe.
+- **Swagger**: Documentação e teste de APIs, garantindo uma comunicação clara entre o front-end e o back-end.
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+## 📚 Cursos
+
+- **Formação em HTML, CSS e JavaScript** da DIO
+- **Cursos de CSS, SASS, Bootstrap e Tailwind** da Udemy
+- **Trilha Explorer** da Rocketseat
+- **Cursos de Front-End** da Origamid
+
+## 🚩 Github Stats
+
   <img width="48%" height="160em" src="https://github-readme-stats.vercel.app/api?username=tamurafelipe&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img width="48%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamurafelipe&layout=compact&langs_count=7&theme=highcontrast"/>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
-  <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
-
-![Snake animation](https://github.com/tamurafelipe/tamurafelipe/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-  
-<h2>Sobre</h2>
-
-- 👯 Colaborador na empresa VM2
-- 📫 tamurafelipe@gmail.com
-
-
-<div> 
-  <a href="https://www.linkedin.com/in/felipe-diego-tamura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:tamurafelipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-</div>
