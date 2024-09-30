@@ -4,10 +4,10 @@
 
 Formado em Análise e Desenvolvimento de Sistemas, com 2 anos e 6 meses de experiência. Trabalhando em projetos desafiadores para grandes empresas, como **Braskem**, **Aliança**, **Clarios**, **Metalfrio** e **Disal**. Github criado com propósito de estudos com vários repositórios de projetos realizados durante os cursos.
 
-<img align="right" alt="Code Girl image" src="./octocat-1726751042767.png"  width="300px" style="marign-top: 30px; display: block; position: relative; z-index: 9999"/>
+<img align="right" alt="Code Girl image" src="./octocat-1726751042767.png"  width="300px"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-00bd1f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-diego-tamura/)](https://www.linkedin.com/in/felipe-diego-tamura/)
-[![Personal Badge](https://img.shields.io/badge/-CV-Online-00bd1f?style=flat-square&logo=Me&logoColor=white&link=https://tamurafelipe.github.io/cv/)](https://tamurafelipe.github.io/cv/)
+[![CV Online](https://img.shields.io/badge/-Portfólio-00bd1f?style=flat-square&logo=Me&logoColor=white&link=https://tamurafelipe.github.io/cv/)](https://tamurafelipe.github.io/cv/)
 [![Gmail Badge](https://img.shields.io/badge/-tamurafelipe@gmail.com-00bd1f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamurafelipe@gmail.com)](mailto:tamurafelipe@gmail.com)
 
 ## ⚡ Minhas Habilidades
