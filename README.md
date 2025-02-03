@@ -39,9 +39,3 @@ Formado em Análise e Desenvolvimento de Sistemas, com 3 anos de experiência. T
 - **Cursos de CSS, SASS, Bootstrap e Tailwind** da Udemy
 - **Trilha Explorer** da Rocketseat
 - **Cursos de Front-End** da Origamid
-
-## 🚩 Github Stats
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tamurafelipe&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamurafelipe&layout=compact&langs_count=7&theme=highcontrast"/>
-
