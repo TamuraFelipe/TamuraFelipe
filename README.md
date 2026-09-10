@@ -2,7 +2,7 @@
 
 💻 _Front-end Developer_ | 🏢 _VM2_ 
 
-Formado em Análise e Desenvolvimento de Sistemas, com 3 anos de experiência. Trabalhando em projetos desafiadores para grandes empresas, como **Braskem**, **Aliança**, **Clarios**, **Metalfrio** e **Disal**. Github criado com propósito de estudos com vários repositórios de projetos realizados durante os cursos.
+Formado em Análise e Desenvolvimento de Sistemas, com 5 anos de experiência. Trabalhando em projetos desafiadores para grandes empresas, como **Braskem**, **Aliança**, **Clarios**, **Metalfrio** e **Disal**. Github criado com propósito de estudos com vários repositórios de projetos realizados durante os cursos.
 
 <img align="right" alt="Code Girl image" src="./octocat-1726751042767.png"  width="300px"/>
 
